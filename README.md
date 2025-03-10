@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This browser extension automatically opens any clicked link in a **new tab** instead of the same page. Works on **Brave** and **Chrome** browsers.
 
-##NOTE - The extension will only work when you open new tabs, it will not work in the already opened tabs while loading the extension. So, for better use, after enabling the extension, open new tabs. 
+**NOTE** - The extension will only work when you open new tabs, it will not work in the already opened tabs while loading the extension. So, for better use, after enabling the extension, open new tabs. 
 
 ## 📌 Features
 - Opens all links in a **new tab automatically**
